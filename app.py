@@ -927,7 +927,7 @@ with left_col:
                     "If no type provided, defaults to digital."
                 ),
             )
-            add_documents = st.text_area(
+            add_docs_text = st.text_area(
                 "Patient Documents (type|title|content per line)",
                 key="add_documents",
                 help=(
@@ -956,7 +956,7 @@ with left_col:
                     "temperature": add_temp.strip(),
                     "history": parse_history(add_history),
                     "doctor_notes": parse_notes(add_notes),
-                    "documents": parse_documents(add_documents),
+                    "documents": parse_documents(add_docs_text),
                 }
                 try:
                     create_patient(DB_PATH, payload)
