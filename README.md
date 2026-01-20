@@ -33,6 +33,20 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 3.1 Install system dependencies for OCR (optional)
+
+For OCR functionality (scanning handwritten notes and PDFs):
+
+**macOS:**
+```bash
+brew install tesseract poppler
+```
+
+**Ubuntu/Debian:**
+```bash
+sudo apt-get install tesseract-ocr poppler-utils
+```
+
 ### 4. Set OpenAI API Key
 
 ```bash
