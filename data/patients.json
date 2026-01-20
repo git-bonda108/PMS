@@ -1,0 +1,388 @@
+[
+  {
+    "patient_id": "P-1001",
+    "hospital_number": "HN-40218",
+    "patient_name": "Amara Okoye",
+    "blood_pressure": "118/76",
+    "fever": "No",
+    "heart_rate": "72 bpm",
+    "temperature": "36.8 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Patient reports sleeping 7 hours nightly; no dizziness."
+      },
+      {
+        "type": "handwritten",
+        "entry": "Slight pallor noted; advise iron-rich diet."
+      }
+    ],
+    "documents": [
+      {
+        "type": "handwritten",
+        "title": "Progress Note Scan",
+        "content": "Legible portions: fatigue improving; hydration emphasized."
+      },
+      {
+        "type": "digital",
+        "title": "Visit Summary",
+        "content": "Vitals stable. Encouraged continued balanced meals and rest."
+      }
+    ],
+    "history": [
+      "2025-09-14: Annual physical, no acute concerns reported.",
+      "2025-11-02: Mild dehydration treated with oral fluids.",
+      "2026-01-05: Follow-up for fatigue, labs within normal limits."
+    ]
+  },
+  {
+    "patient_id": "P-1002",
+    "hospital_number": "HN-51933",
+    "patient_name": "Lucas Chen",
+    "blood_pressure": "132/84",
+    "fever": "Low-grade",
+    "heart_rate": "88 bpm",
+    "temperature": "37.8 C",
+    "doctor_notes": [
+      {
+        "type": "handwritten",
+        "entry": "Throat mildly erythematous; encourage warm fluids."
+      },
+      {
+        "type": "digital",
+        "entry": "Pulse ox 98%; no wheeze on auscultation."
+      }
+    ],
+    "documents": [
+      {
+        "type": "handwritten",
+        "title": "Clinic Note",
+        "content": "Cough improving; no shortness of breath noted."
+      },
+      {
+        "type": "digital",
+        "title": "Follow-up Email",
+        "content": "Patient advised to monitor headaches and keep symptom diary."
+      }
+    ],
+    "history": [
+      "2025-10-21: Viral syndrome suspected, advised rest and fluids.",
+      "2025-12-12: Cough improved, no fever at visit.",
+      "2026-01-12: Reports intermittent headaches, monitoring."
+    ]
+  },
+  {
+    "patient_id": "P-1003",
+    "hospital_number": "HN-63307",
+    "patient_name": "Sofia Martinez",
+    "blood_pressure": "124/80",
+    "fever": "No",
+    "heart_rate": "76 bpm",
+    "temperature": "36.9 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Seasonal allergy flare; restart antihistamine."
+      },
+      {
+        "type": "handwritten",
+        "entry": "No nasal polyps; recommend saline rinse."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "Allergy Plan",
+        "content": "Continue antihistamine daily; add saline rinse at night."
+      },
+      {
+        "type": "handwritten",
+        "title": "ENT Note Scan",
+        "content": "Turbinates mildly swollen; no signs of infection."
+      }
+    ],
+    "history": [
+      "2025-08-30: Routine check, vitals stable.",
+      "2025-11-18: Seasonal allergies, started antihistamine.",
+      "2026-01-10: Reports improved sleep, no concerns."
+    ]
+  },
+  {
+    "patient_id": "P-1004",
+    "hospital_number": "HN-70841",
+    "patient_name": "Noah Johnson",
+    "blood_pressure": "140/90",
+    "fever": "No",
+    "heart_rate": "92 bpm",
+    "temperature": "37.1 C",
+    "doctor_notes": [
+      {
+        "type": "handwritten",
+        "entry": "Discussed DASH diet; patient motivated."
+      },
+      {
+        "type": "digital",
+        "entry": "Home BP log reviewed; average 132/86."
+      }
+    ],
+    "documents": [
+      {
+        "type": "handwritten",
+        "title": "Counseling Note",
+        "content": "Set goal: 30 min walking, 4x/week; reduce sodium."
+      },
+      {
+        "type": "digital",
+        "title": "BP Trend Report",
+        "content": "BP trending down over 6 weeks with diet changes."
+      }
+    ],
+    "history": [
+      "2025-09-05: Elevated BP noted, lifestyle counseling provided.",
+      "2025-11-27: Follow-up, BP trending down with diet changes.",
+      "2026-01-15: Reports improved activity, continue monitoring."
+    ]
+  },
+  {
+    "patient_id": "P-1005",
+    "hospital_number": "HN-84592",
+    "patient_name": "Aisha Khan",
+    "blood_pressure": "110/70",
+    "fever": "No",
+    "heart_rate": "68 bpm",
+    "temperature": "36.6 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Energy improved after nutrition changes; continue plan."
+      },
+      {
+        "type": "handwritten",
+        "entry": "No edema; skin warm and dry."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "Nutrition Plan",
+        "content": "Balanced macros; hydration goal 2L/day."
+      },
+      {
+        "type": "handwritten",
+        "title": "Wellness Check Note",
+        "content": "Mood bright, no complaints; encourage sleep routine."
+      }
+    ],
+    "history": [
+      "2025-10-03: Wellness visit, no issues.",
+      "2025-12-19: Requested nutrition plan, provided guidance.",
+      "2026-01-09: Reports increased energy, stable vitals."
+    ]
+  },
+  {
+    "patient_id": "P-1006",
+    "hospital_number": "HN-91024",
+    "patient_name": "David Williams",
+    "blood_pressure": "145/95",
+    "fever": "No",
+    "heart_rate": "78 bpm",
+    "temperature": "36.7 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Type 2 diabetes well-controlled; HbA1c 6.8%."
+      },
+      {
+        "type": "handwritten",
+        "entry": "Foot exam normal; no neuropathy signs detected."
+      },
+      {
+        "type": "digital",
+        "entry": "Metformin 1000mg twice daily; continue current regimen."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "Lab Results",
+        "content": "HbA1c: 6.8%, Fasting glucose: 118 mg/dL, Creatinine: 0.9 mg/dL."
+      },
+      {
+        "type": "handwritten",
+        "title": "Diabetes Management Plan",
+        "content": "Low glycemic diet; blood glucose monitoring 2x daily."
+      }
+    ],
+    "history": [
+      "2025-07-15: Type 2 diabetes diagnosed, started Metformin.",
+      "2025-10-20: HbA1c improved from 8.2% to 7.1%.",
+      "2026-01-08: HbA1c now 6.8%, excellent progress."
+    ]
+  },
+  {
+    "patient_id": "P-1007",
+    "hospital_number": "HN-10587",
+    "patient_name": "Emily Rodriguez",
+    "blood_pressure": "115/75",
+    "fever": "No",
+    "heart_rate": "65 bpm",
+    "temperature": "36.5 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Pregnancy confirmed; estimated 12 weeks gestation."
+      },
+      {
+        "type": "handwritten",
+        "entry": "Prenatal vitamins prescribed; folic acid supplementation ongoing."
+      },
+      {
+        "type": "digital",
+        "entry": "First trimester screening scheduled for next week."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "Ultrasound Report",
+        "content": "Single viable intrauterine pregnancy; fetal heartbeat 156 bpm."
+      },
+      {
+        "type": "digital",
+        "title": "Prenatal Care Plan",
+        "content": "Monthly visits; blood work at 16 weeks; anatomy scan at 20 weeks."
+      }
+    ],
+    "history": [
+      "2025-11-01: Positive pregnancy test, initial consultation.",
+      "2025-12-10: First ultrasound confirms viability.",
+      "2026-01-15: Routine prenatal checkup, all normal."
+    ]
+  },
+  {
+    "patient_id": "P-1008",
+    "hospital_number": "HN-22943",
+    "patient_name": "Michael Thompson",
+    "blood_pressure": "128/82",
+    "fever": "No",
+    "heart_rate": "70 bpm",
+    "temperature": "36.9 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Chronic lower back pain; MRI shows L4-L5 disc herniation."
+      },
+      {
+        "type": "handwritten",
+        "entry": "Physical therapy referral; avoid heavy lifting."
+      },
+      {
+        "type": "digital",
+        "entry": "NSAIDs for pain management; follow up in 6 weeks."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "MRI Report",
+        "content": "L4-L5 posterolateral disc herniation; mild neural foraminal narrowing."
+      },
+      {
+        "type": "handwritten",
+        "title": "PT Prescription",
+        "content": "Core strengthening exercises; McKenzie protocol for disc herniation."
+      }
+    ],
+    "history": [
+      "2025-08-12: Initial complaint of lower back pain radiating to left leg.",
+      "2025-09-25: MRI ordered after conservative treatment failed.",
+      "2026-01-10: Starting physical therapy; improvement noted."
+    ]
+  },
+  {
+    "patient_id": "P-1009",
+    "hospital_number": "HN-33821",
+    "patient_name": "Sarah Kim",
+    "blood_pressure": "108/68",
+    "fever": "No",
+    "heart_rate": "82 bpm",
+    "temperature": "36.4 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Anxiety disorder managed with SSRI; stable on current dose."
+      },
+      {
+        "type": "handwritten",
+        "entry": "Sleep improved with cognitive behavioral therapy."
+      },
+      {
+        "type": "digital",
+        "entry": "Continue Sertraline 50mg daily; next review in 3 months."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "Mental Health Assessment",
+        "content": "GAD-7 score: 8 (mild anxiety); PHQ-9 score: 5 (minimal depression)."
+      },
+      {
+        "type": "digital",
+        "title": "Therapy Progress Notes",
+        "content": "CBT sessions weekly; patient engaged; coping skills improving."
+      }
+    ],
+    "history": [
+      "2025-06-20: Generalized anxiety disorder diagnosed.",
+      "2025-09-15: Started Sertraline 25mg, titrated to 50mg.",
+      "2026-01-12: Significant improvement in anxiety symptoms."
+    ]
+  },
+  {
+    "patient_id": "P-1010",
+    "hospital_number": "HN-44756",
+    "patient_name": "James O'Brien",
+    "blood_pressure": "155/98",
+    "fever": "No",
+    "heart_rate": "88 bpm",
+    "temperature": "37.0 C",
+    "doctor_notes": [
+      {
+        "type": "digital",
+        "entry": "Stage 2 hypertension; started on Lisinopril 10mg."
+      },
+      {
+        "type": "handwritten",
+        "entry": "Cardiac workup ordered; stress test scheduled."
+      },
+      {
+        "type": "digital",
+        "entry": "Lifestyle modifications discussed; reduce alcohol intake."
+      }
+    ],
+    "documents": [
+      {
+        "type": "digital",
+        "title": "ECG Report",
+        "content": "Normal sinus rhythm; no ST changes; left ventricular hypertrophy suspected."
+      },
+      {
+        "type": "digital",
+        "title": "Cardiac Risk Assessment",
+        "content": "10-year ASCVD risk: 12%; moderate risk category; statin consideration."
+      },
+      {
+        "type": "handwritten",
+        "title": "Home BP Log",
+        "content": "AM readings: 148-158/92-100; PM readings: 142-150/88-95."
+      }
+    ],
+    "history": [
+      "2025-05-10: Routine checkup revealed elevated BP.",
+      "2025-08-22: Confirmed Stage 2 hypertension after monitoring.",
+      "2025-11-30: Started antihypertensive medication.",
+      "2026-01-18: BP improving but still above target."
+    ]
+  }
+]
